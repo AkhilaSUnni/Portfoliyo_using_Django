@@ -797,7 +797,7 @@ display: none;
     margin-left: 240px;
    }
 }
-@media (min-width:300px) and (max-width:576px){
+@media (min-width:200px) and (max-width:576px){
     .main{
         /* display: none; */
         margin-left: 0px;
